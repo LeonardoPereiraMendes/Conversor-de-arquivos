@@ -1,0 +1,12 @@
+/* Estilos opcionais para a imagem */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  img {
+    width: 300px; /* Tamanho inicial da imagem */
+    transition: transform 0.3s ease; /* Adicionando transição */
+  }
